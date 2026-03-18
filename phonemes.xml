@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<phonemes>
+<phoneme name="t" ipa="t" coro="+" ctype="s" cvox="-" man="plo" plc_p="alv" sib="-" vc="-" />
+<phoneme name="ts" ipa="t͡s" coro="+" ctype="a" cvox="-" man="aff" plc_p="alv" sib="+" vc="-" />
+<phoneme name="s" ipa="s" coro="+" ctype="f" cvox="-" man="fri" plc_p="alv" sib="+" vc="-" />
+<phoneme name="l" ipa="l" coro="+" ctype="l" cvox="+" lat="+" man="app" plc_p="alv" sib="-" son="+" vc="-" />
+<phoneme name="n" ipa="n" coro="+" ctype="n" cvox="+" man="nas" plc_p="alv" sib="-" son="+" vc="-" />
+<phoneme name="d" ipa="d" coro="+" ctype="s" cvox="+" man="plo" plc_p="alv" sib="-" vc="-" />
+<phoneme name="dz" ipa="d͡z" coro="+" ctype="a" cvox="+" man="aff" plc_p="alv" sib="+" vc="-" />
+<phoneme name="z" ipa="z" coro="+" ctype="f" cvox="+" man="fri" plc_p="alv" sib="+" vc="-" />
+<phoneme name="p" ipa="p" ctype="s" cvox="-" labi="+" man="plo" plc_p="bil" sib="-" vc="-" />
+<phoneme name="m" ipa="m" ctype="n" cvox="+" labi="+" man="nas" plc_p="bil" sib="-" son="+" vc="-" />
+<phoneme name="b" ipa="b" ctype="s" cvox="+" labi="+" man="plo" plc_p="bil" sib="-" vc="-" />
+<phoneme name="w" ipa="w" ctype="l" cvox="+" man="app" plc_p="coa" sib="-" son="+" svbkn="b" svh="c" svhg="c" svrnd="+" vc="-" />
+<phoneme name="h" ipa="h" ctype="f" cvox="-" lary="+" man="fri" plc_p="glo" sib="-" vc="-" />
+<phoneme name="f" ipa="f" ctype="f" cvox="-" labi="+" man="fri" plc_p="lad" sib="-" vc="-" />
+<phoneme name="v" ipa="v" ctype="f" cvox="+" labi="+" man="fri" plc_p="lad" sib="-" vc="-" />
+<phoneme name="on" ipa="ɔ̃ː" bkn="b" h="cm" hg="m" nas="+" rnd="+" son="+" vc="+" vlng="l" />
+<phoneme name="an" ipa="ɑ̃ː" bkn="f" h="o" hg="o" nas="+" rnd="-" son="+" vc="+" vlng="l" />
+<phoneme name="in" ipa="ɛ̃ː" bkn="f" h="om" hg="m" nas="+" rnd="-" son="+" vc="+" vlng="l" />
+<phoneme name="ch" ipa="ɕ" coro="+" ctype="f" cvox="-" dors="+" man="fri" plc_p="pal" sib="+" vc="-" />
+<phoneme name="j" ipa="j" coro="+" ctype="l" cvox="+" dors="+" man="app" plc_p="pal" sib="-" son="+" svbkn="f" svh="c" svhg="c" svrnd="-" vc="-" />
+<phoneme name="jw" ipa="ɥ" coro="+" ctype="l" cvox="+" dors="+" man="app" plc_p="pal" sib="-" son="+" svbkn="f" svh="c" svhg="c" svrnd="-" vc="-" />
+<phoneme name="zz" ipa="ʑ" coro="+" ctype="f" cvox="+" dors="+" man="fri" plc_p="pal" sib="+" vc="-" />
+<phoneme name="sh" ipa="ʃ" coro="+" ctype="f" cvox="-" man="fri" plc_p="pal" sib="+" vc="-" />
+<phoneme name="zh" ipa="ʒ" coro="+" ctype="f" cvox="+" man="fri" plc_p="pal" sib="+" vc="-" />
+<phoneme name="dzh" ipa="d͡ʒ" coro="+" cvox="+" man="aff" ctype="a" plc_p="pal" sib="+" vc="-" />UV
+<phoneme name="u" ipa="u" bkn="b" h="c" hg="c" rnd="+" son="+" vc="+" vlng="s" />
+<phoneme name="uu" ipa="uː" bkn="b" h="c" hg="c" rnd="+" son="+" vc="+" vlng="l" />
+<phoneme name="ue" ipa="uə" bkn="b" h="c" hg="c" rnd="+" son="+" svbkn="c" svh="m" svhg="m" svrnd="-" vc="+" vlng="d" />
+<phoneme name="uer" ipa="uːɐ̯" bkn="b" h="c" hg="c" rnd="+" son="+" svbkn="c" svh="m" svhg="m" svrnd="-" vc="+" vlng="d" />
+<phoneme name="y" ipa="y" bkn="f" h="c" hg="c" rnd="+" son="+" vc="+" vlng="s" />
+<phoneme name="yy" ipa="yː" bkn="f" h="c" hg="c" rnd="+" son="+" vc="+" vlng="l" />
+<phoneme name="oce" ipa="ø" bkn="f" h="cm" hg="c" rnd="+" son="+" vc="+" vlng="s" />
+<phoneme name="ooce" ipa="øː" bkn="f" h="cm" hg="c" rnd="+" son="+" vc="+" vlng="l" />
+<phoneme name="o" ipa="o" bkn="b" h="cm" hg="m" rnd="+" son="+" vc="+" vlng="s" />
+<phoneme name="oo" ipa="oː" bkn="b" h="cm" hg="m" rnd="+" son="+" vc="+" vlng="l" />
+<phoneme name="oer" ipa="œːɐ̯" bkn="f" h="om" hg="m" rnd="+" son="+" vc="+" vlng="d" />
+<phoneme name="ooe" ipa="œː" bkn="f" h="om" hg="m" rnd="+" son="+" vc="+" vlng="l" />
+<phoneme name="oi" ipa="oɪ" bkn="b" h="cm" hg="c" rnd="+" son="+" svbkn="f" svh="nc" svhg="c" svrnd="-" vc="+" vlng="d" />
+<phoneme name="i" ipa="i" bkn="f" h="c" hg="c" rnd="-" son="+" vc="+" vlng="s" />
+<phoneme name="ii" ipa="iː" bkn="f" h="c" hg="c" rnd="-" son="+" vc="+" vlng="l" />
+<phoneme name="ie" ipa="iə" bkn="f" h="c" hg="c" rnd="-" son="+" svbkn="c" svh="m" svhg="m" svrnd="-" vc="+" vlng="d" />
+<phoneme name="ier" ipa="iːɐ̯" bkn="f" h="c" hg="c" rnd="-" son="+" svbkn="c" svh="m" svhg="m" svrnd="-" vc="+" vlng="d" />
+
+<phoneme name="yer" ipa="yːɐ̯" bkn="f" h="c" hg="c" rnd="+" son="+" svbkn="c" svh="m" svhg="m" svrnd="-" vc="+" vlng="d" />
+<phoneme name="e" ipa="e" bkn="f" h="cm" hg="m" rnd="-" son="+" vc="+" vlng="s" />
+<phoneme name="ee" ipa="eː" bkn="f" h="cm" hg="m" rnd="-" son="+" vc="+" vlng="l" />
+<phoneme name="ax" ipa="ə" bkn="c" h="m" hg="m" rnd="-" son="+" vc="+" vlng="s" />
+<phoneme name="ou" ipa="əʊ" bkn="c" h="m" hg="m" rnd="-" son="+" svbkn="b" svh="nc" svhg="c" svrnd="+" vc="+" vlng="d" />
+<phoneme name="er" ipa="ɐ" bkn="c" h="no" hg="o" rnd="-" son="+" vc="+" vlng="s" />
+<phoneme name="ae" ipa="æ" bkn="f" h="no" hg="o" rnd="-" son="+" vc="+" vlng="s" />
+<phoneme name="aae" ipa="ɛː" bkn="f" h="no" hg="o" rnd="-" son="+" vc="+" vlng="l" />
+
+<phoneme name="aer" ipa="ɛːɐ̯" bkn="f" h="no" hg="o" rnd="-" son="+" vc="+" vlng="d" />
+<phoneme name="aei" ipa="æːɪ" bkn="f" h="no" hg="o" rnd="-" son="+" svbkn="f" svh="nc" svhg="c" svrnd="-" vc="+" vlng="d" />
+<phoneme name="aeu" ipa="æːʊ" bkn="f" h="no" hg="o" rnd="-" son="+" svbkn="b" svh="nc" svhg="c" svrnd="+" vc="+" vlng="d" />
+<phoneme name="a" ipa="ɑ" bkn="b" h="o" hg="o" rnd="-" son="+" vc="+" vlng="s" />
+<phoneme name="ai" ipa="ɑɪ" bkn="b" h="o" hg="o" rnd="-" son="+" svbkn="f" svh="nc" svhg="c" svrnd="-" vc="+" vlng="d" />
+<phoneme name="au" ipa="ɑʊ" bkn="b" h="o" hg="o" rnd="-" son="+" svbkn="b" svh="nc" svhg="c" svrnd="+" vc="+" vlng="d" />
+<phoneme name="aa" ipa="aː" bkn="f" h="o" hg="o" rnd="-" son="+" vc="+" vlng="l" />
+<phoneme name="ei" ipa="ɜɪ" bkn="c" h="om" hg="o" rnd="-" son="+" svbkn="f" svh="nc" svhg="c" svrnd="-" vc="+" vlng="d" />
+<phoneme name="rh" ipa="ʁ" ctype="f" cvox="+" dors="+" man="fri" plc_p="uvu" sib="-" vc="-" />
+<phoneme name="r" ipa="ʀ" ctype="o" cvox="+" dors="+" man="tri" plc_p="uvu" sib="-" vc="-" />
+<phoneme name="xh" ipa="χ" ctype="f" cvox="-" dors="+" man="fri" plc_p="vel" sib="-" vc="-" />
+<phoneme name="k" ipa="k" ctype="s" cvox="-" dors="+" man="plo" plc_p="vel" sib="-" vc="-" />
+<phoneme name="ng" ipa="ŋ" ctype="n" cvox="+" dors="+" man="nas" plc_p="vel" sib="-" son="+" vc="-" />
+
+<phoneme name="nh" ipa="ɲ" ctype="n" cvox="+" dors="+" man="nas" plc_p="pal" sib="-" son="+" vc="-" />
+<phoneme name="g" ipa="g" ctype="s" cvox="+" dors="+" man="plo" plc_p="vel" sib="-" vc="-" />
+
+<phoneme name="th" ipa="θ" coro="+" ctype="f" cvox="-" man="fri" plc_p="den" sib="-" vc="-" />
+<phoneme name="dh" ipa="ð" coro="+" ctype="f" cvox="+" man="fri" plc_p="den" sib="-" vc="-" />
+<phoneme name="ear" ipa="ɛɐ̯" bkn="f" h="m" hg="m" rnd="-" son="+" svbkn="m" svh="m" svhg="m" svrnd="-" vc="+" vlng="d" />
+
+<phoneme name="pau"/>
+</phonemes>
